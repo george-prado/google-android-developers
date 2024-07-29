@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+    <string name="announce_text">O amor da vida de George se chama... \n\n</string>
+    <string name="her_name">Alanis</string>
+</resources>
