@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="brand_logo">Brand logo</string>
+    <string name="business_card_name">George Prado</string>
+    <string name="business_card_position">Android Engineer</string>
+    <string name="card_info_location">Curitiba – PR</string>
+    <string name="card_info_email">georgepradoti@gmail.com</string>
+    <string name="card_info_phone">(62) 9 9700–0460</string>
+    <string name="email_icon_description">Contact E-mail icon</string>
+    <string name="phone_icon_description">Contact Phone icon</string>
+    <string name="location_icon_description">Location icon</string>
+</resources>
